@@ -1,0 +1,45 @@
+
+
+section {
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 200px;
+    padding: auto;
+    margin-left: 10px;
+    
+}
+
+
+img {
+    width: 750px;
+    margin-right: 1400px;
+    float:right
+  
+    
+}
+
+p {
+    width: 200PX;
+    padding:auto;
+    margin-left: 10px;
+}
+
+h1 {
+    color: #1aacf0;
+    width: 400px;
+    margin-left: 10px
+
+};
+
+h2 {
+    color: #1aacf0;
+    width: 400px;
+    margin-left: 10px
+
+};
+
+
+span {
+    margin-left: 10px;
+}
